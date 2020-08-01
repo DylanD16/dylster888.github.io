@@ -1,0 +1,3 @@
+<script>
+    window.location.replace("https://discord.com/oauth2/authorize?client_id=738827354763427911&permissions=322624&scope=bot");
+  </script>
